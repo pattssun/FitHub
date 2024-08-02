@@ -1,0 +1,74 @@
+{
+    "images/1.png": {
+        "calories": 357.81,
+        "protein": 20.0,
+        "carb": 20.96,
+        "fat": 21.69
+    },
+    "images/2.png": {
+        "calories": 655.99,
+        "protein": 93.24,
+        "carb": 23.34,
+        "fat": 20.22
+    },
+    "images/3.png": {
+        "calories": 351.89,
+        "protein": 12.1,
+        "carb": 57.5,
+        "fat": 9.77
+    },
+    "images/4.png": {
+        "calories": 184.99,
+        "protein": 24.54,
+        "carb": 8.9,
+        "fat": 6.14
+    },
+    "images/5.png": {
+        "calories": 139.56,
+        "protein": 5.4,
+        "carb": 14.66,
+        "fat": 6.64
+    },
+    "images/6.png": {
+        "calories": 950.4,
+        "protein": 74.77,
+        "carb": 54.13,
+        "fat": 45.3
+    },
+    "images/7.png": {
+        "calories": 284.69,
+        "protein": 13.84,
+        "carb": 14.42,
+        "fat": 18.8
+    },
+    "images/8.png": {
+        "calories": 557.73,
+        "protein": 25.77,
+        "carb": 23.81,
+        "fat": 42.54
+    },
+    "images/9.png": {
+        "calories": 583.38,
+        "protein": 42.29,
+        "carb": 52.42,
+        "fat": 23.33
+    },
+    "images/10.png": {
+        "calories": 163.86,
+        "protein": 2.51,
+        "carb": 28.49,
+        "fat": 5.3
+    },
+    "images/11.png": {
+        "calories": 428.67,
+        "protein": 24.47,
+        "carb": 4.9,
+        "fat": 35.14
+    },
+    "images/12.png": {
+        "calories": 506.36,
+        "protein": 77.39,
+        "carb": 16.41,
+        "fat": 13.48
+    }
+}
